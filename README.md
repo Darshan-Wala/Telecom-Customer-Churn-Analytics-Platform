@@ -237,7 +237,6 @@ This platform enables organizations to:
 
 Computer Engineering Student | Data Engineering & Machine Learning Enthusiast
 
-GitHub: https://github.com/Darshan-Wala
 ---
 
 ## ⭐ If you found this project useful, consider giving it a star!
